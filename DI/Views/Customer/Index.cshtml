@@ -1,0 +1,40 @@
+﻿@model  List<DAL.Customer>
+
+<h2>Customers</h2>
+
+<div class="container">
+    <div class="row">
+        <section class="content">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="table-container">
+                            <table class="table table-filter">
+                                <tbody>
+                                    @foreach (var res in Model)
+                                    {
+                                    <tr data-status="pagado">
+                                        <td>
+                                            <div class="media">
+                                                <a href="#" class="pull-left">
+                                                    <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg" class="media-photo">
+                                                </a>
+                                                <div class="media-body">
+                                                    <h4 class="title">
+                                                       @res.CustomerName
+                                                    </h4>
+                                                    <p class="summary"> @res.City</p>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
