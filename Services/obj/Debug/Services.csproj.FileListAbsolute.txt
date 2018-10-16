@@ -1,0 +1,16 @@
+E:\Satya\DI\DI\Services\bin\Debug\Services.dll
+E:\Satya\DI\DI\Services\bin\Debug\Services.pdb
+E:\Satya\DI\DI\Services\bin\Debug\DAL.dll
+E:\Satya\DI\DI\Services\bin\Debug\DAL.pdb
+E:\Satya\DI\DI\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Satya\DI\DI\Services\obj\Debug\Services.dll
+E:\Satya\DI\DI\Services\obj\Debug\Services.pdb
+C:\Users\ssharma\Downloads\DI\DI\Services\bin\Debug\Services.dll
+C:\Users\ssharma\Downloads\DI\DI\Services\bin\Debug\Services.pdb
+C:\Users\ssharma\Downloads\DI\DI\Services\bin\Debug\DAL.dll
+C:\Users\ssharma\Downloads\DI\DI\Services\bin\Debug\DAL.pdb
+C:\Users\ssharma\Downloads\DI\DI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\ssharma\Downloads\DI\DI\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\ssharma\Downloads\DI\DI\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\ssharma\Downloads\DI\DI\Services\obj\Debug\Services.dll
+C:\Users\ssharma\Downloads\DI\DI\Services\obj\Debug\Services.pdb
